@@ -1,0 +1,125 @@
+
+░██████╗███████╗░█████╗░██╗░░░██╗██████╗░███████╗    ███╗░░██╗███████╗████████╗░██╗░░░░░░░██╗░█████╗░██████╗░██╗░░██╗
+██╔════╝██╔════╝██╔══██╗██║░░░██║██╔══██╗██╔════╝    ████╗░██║██╔════╝╚══██╔══╝░██║░░██╗░░██║██╔══██╗██╔══██╗██║░██╔╝
+╚█████╗░█████╗░░██║░░╚═╝██║░░░██║██████╔╝█████╗░░    ██╔██╗██║█████╗░░░░░██║░░░░╚██╗████╗██╔╝██║░░██║██████╔╝█████═╝░
+░╚═══██╗██╔══╝░░██║░░██╗██║░░░██║██╔══██╗██╔══╝░░    ██║╚████║██╔══╝░░░░░██║░░░░░████╔═████║░██║░░██║██╔══██╗██╔═██╗░
+██████╔╝███████╗╚█████╔╝╚██████╔╝██║░░██║███████╗    ██║░╚███║███████╗░░░██║░░░░░╚██╔╝░╚██╔╝░╚█████╔╝██║░░██║██║░╚██╗
+╚═════╝░╚══════╝░╚════╝░░╚═════╝░╚═╝░░╚═╝╚══════╝    ╚═╝░░╚══╝╚══════╝░░░╚═╝░░░░░░╚═╝░░░╚═╝░░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝
+                                                                                                                                               v1.0 by Tillever
+                                                                                                                             Tg channel: @SecureNetworkUnlocker
+                                                                                                                                         Tg bot: @SnUnlockerBot
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                   𝐀𝐛𝐨𝐮𝐭 𝐒𝐍 𝐭𝐨𝐨𝐥
+
+[𝐔𝐒] - Greetings, user! Thank you for installing our utility: Secure Network (SN). The creator of this program is Tillever. 
+
+"I've put a lot of effort into making the Secure Network project real.
+ I've spent a lot of time and gained a lot of experience. Thank you again
+for installing my program. :)"
+                                                                                               - 𝐓𝐢𝐥𝐥𝐞𝐯𝐞𝐫
+
+about me:
+
+I live in the Russian Federation. Recently, absolutely everything has started to be blocked. YouTube, Instagram, TikTok, and many other
+apps are not available. They also jam the Internet almost every day. The registry of blocked websites and applications is being updated every day.
+I decided to create my own utility in which everything will be available.
+
+FEATURES OF SN 1.0:
+
+1. Off telemetry
+2. Digital footstep
+/
+| -Delete digital footstep
+| -WebRTC Leak Blocker
+| -Protection information from the provider
+| -Log-File
+\
+3. Redirecting traffic
+4. Unlocker
+5. Tor browser
+6. Game mode
+7. RU - USA (Your location changes to USA)
+8. Channel
+9. Network
+10. Browser
+11. DNS
+/
+| -Google
+| -Cloudflare
+| -OpenDNS
+\
+12. Computer settings
+13. Full reboot
+14. Simple unlocker
+15. Off corehost trace
+16. Optimized PC
+/
+| -Optimized settings (+FPS)
+| -Debloat
+\
+
+[S]. Settings
+[T]. SN_Terminal
+[R]. Recovery point
+
+Version 1.1 soon...
+Linux version 1.0 soon...
+
+
+
+[𝐑𝐔] - Приветствую вас, пользователь! Благодарим за установку нашей утилиты: Secure Network (SN). Создатель данной программы: Tillever. 
+
+"Я вложил много усилий, для того что бы проект Secure Network был реален.
+ Потратил много времени, и набрался огромного опыта. Благодарю вас еще раз,
+ за установку моей программы. :)"
+                                                                 - 𝐓𝐢𝐥𝐥𝐞𝐯𝐞𝐫
+
+ОБО МНЕ:
+
+Я проживаю в РФ. В последнее время абсолютно все начали блокировать. Не доступен YouTube, Instagram, TikTok и многие другие 
+приложения. Также практически повседневно глушат интернет. Реестр заблокированных сайтов и приложений с каждым днем пополняется.
+Я решил создать свою утилиту, в которой все будет доступно.
+
+ВОЗМОЖНОСТИ SN 1.0:
+
+1. Off telemetry
+2. Digital footstep
+/
+| -Delete digital footstep
+| -WebRTC Leak Blocker
+| -Protection information from the provider
+| -Log-File
+\
+3. Redirecting traffic
+4. Unlocker
+5. Tor browser
+6. Game mode
+7. RU - USA (Твое местоположение меняется на USA)
+8. Channel
+9. Network
+10. Browser
+11. DNS
+/
+| -Google
+| -Cloudflare
+| -OpenDNS
+\
+12. Computer settings
+13. Full reboot
+14. Simple unlocker
+15. Off corehost trace
+16. Optimized PC
+/
+| -Optimized settings (+FPS)
+| -Debloat
+\
+
+[S]. Settings
+[T]. SN_Terminal
+[R]. Recovery point
+
+Версия 1.1 скоро...
+Linux версия 1.0 скоро...
+
+
